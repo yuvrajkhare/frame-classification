@@ -1,5 +1,5 @@
 
-# Contrastive Learning Package
+# Surgical Frame Classification 
 
 This package provides tools for pretraining models using reverse contrastive learning and fine-tuning them on labeled datasets. It includes functionalities for data augmentation, custom datasets, model training, and evaluation.
 

@@ -17,7 +17,7 @@ setup(
     description="A package for surgical frame classification using semi-supervised tecniques.",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yuvrajkhare/frameclassifcation_package",
+    url="https://github.com/yuvrajkhare/frame-classification/tree/main/frameclassification_package",
     packages=find_packages(where='src'),
     package_dir={"": "src"},
     classifiers=[
